@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Xuluan Blog]]></title>
-  <link href="http://xuluan.github.com/xublog/atom.xml" rel="self"/>
-  <link href="http://xuluan.github.com/xublog/"/>
-  <updated>2012-09-24T17:10:40+08:00</updated>
-  <id>http://xuluan.github.com/xublog/</id>
+  <link href="http://blog.xuluan.me/atom.xml" rel="self"/>
+  <link href="http://blog.xuluan.me/"/>
+  <updated>2012-09-24T18:09:29+08:00</updated>
+  <id>http://blog.xuluan.me/</id>
   <author>
     <name><![CDATA[xuluan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[my first blog]]></title>
-    <link href="http://xuluan.github.com/xublog/blog/2012/09/24/my-first-blog/"/>
+    <link href="http://blog.xuluan.me/blog/2012/09/24/my-first-blog/"/>
     <updated>2012-09-24T16:56:00+08:00</updated>
-    <id>http://xuluan.github.com/xublog/blog/2012/09/24/my-first-blog</id>
+    <id>http://blog.xuluan.me/blog/2012/09/24/my-first-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
