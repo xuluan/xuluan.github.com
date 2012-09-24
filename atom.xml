@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Xuluan Blog]]></title>
+  <link href="http://xuluan.github.com/xublog/atom.xml" rel="self"/>
+  <link href="http://xuluan.github.com/xublog/"/>
+  <updated>2012-09-24T16:57:35+08:00</updated>
+  <id>http://xuluan.github.com/xublog/</id>
+  <author>
+    <name><![CDATA[xuluan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://xuluan.github.com/xublog/blog/2012/09/24/my-first-blog/"/>
+    <updated>2012-09-24T16:56:00+08:00</updated>
+    <id>http://xuluan.github.com/xublog/blog/2012/09/24/my-first-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
