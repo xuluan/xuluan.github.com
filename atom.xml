@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Xuluan Blog]]></title>
+<<<<<<< HEAD
   <link href="http://blog.xuluan.me/atom.xml" rel="self"/>
   <link href="http://blog.xuluan.me/"/>
   <updated>2012-09-24T18:09:29+08:00</updated>
   <id>http://blog.xuluan.me/</id>
+=======
+  <link href="http://xuluan.github.com/atom.xml" rel="self"/>
+  <link href="http://xuluan.github.com/"/>
+  <updated>2012-09-25T10:23:20+08:00</updated>
+  <id>http://xuluan.github.com/</id>
+>>>>>>> master
   <author>
     <name><![CDATA[xuluan]]></name>
     
@@ -14,10 +21,45 @@
 
   
   <entry>
+<<<<<<< HEAD
     <title type="html"><![CDATA[my first blog]]></title>
     <link href="http://blog.xuluan.me/blog/2012/09/24/my-first-blog/"/>
     <updated>2012-09-24T16:56:00+08:00</updated>
     <id>http://blog.xuluan.me/blog/2012/09/24/my-first-blog</id>
+=======
+    <title type="html"><![CDATA[octopress command]]></title>
+    <link href="http://xuluan.github.com/blog/2012/09/25/octopress-command/"/>
+    <updated>2012-09-25T10:11:00+08:00</updated>
+    <id>http://xuluan.github.com/blog/2012/09/25/octopress-command</id>
+    <content type="html"><![CDATA[<ul>
+<li><p>install</p>
+
+<blockquote><ul>
+<li>git clone git://github.com/imathis/octopress.git</li>
+<li>bundle install</li>
+</ul>
+</blockquote></li>
+<li><p>configuration: _config.yml</p></li>
+<li><p>create post: rake new_post[&#8220;my first blog&#8221;]</p></li>
+<li><p>publish:</p>
+
+<blockquote><ul>
+<li>rake generate</li>
+<li>rake preview</li>
+<li>rake deploy</li>
+</ul>
+</blockquote></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://xuluan.github.com/blog/2012/09/24/my-first-blog/"/>
+    <updated>2012-09-24T16:56:00+08:00</updated>
+    <id>http://xuluan.github.com/blog/2012/09/24/my-first-blog</id>
+>>>>>>> master
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
