@@ -4,7 +4,7 @@
   <title><![CDATA[Xuluan Blog]]></title>
   <link href="http://xuluan.github.com/atom.xml" rel="self"/>
   <link href="http://xuluan.github.com/"/>
-  <updated>2012-09-25T10:07:31+08:00</updated>
+  <updated>2012-09-25T10:16:10+08:00</updated>
   <id>http://xuluan.github.com/</id>
   <author>
     <name><![CDATA[xuluan]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[octopress command]]></title>
+    <link href="http://xuluan.github.com/blog/2012/09/25/octopress-command/"/>
+    <updated>2012-09-25T10:11:00+08:00</updated>
+    <id>http://xuluan.github.com/blog/2012/09/25/octopress-command</id>
+    <content type="html"><![CDATA[<ul>
+<li><p>install</p>
+
+<blockquote><ul>
+<li>git clone git://github.com/imathis/octopress.git</li>
+<li>bundle install</li>
+</ul>
+</blockquote></li>
+<li><p>configuration: _config.yml</p></li>
+<li><p>create post: rake new_post[&#8220;my first blog&#8221;]</p></li>
+<li><p>publish:</p>
+
+<blockquote><ul>
+<li>rake generate</li>
+<li>rake preview</li>
+<li>rake deploy</li>
+</ul>
+</blockquote></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[my first blog]]></title>
